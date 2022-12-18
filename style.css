@@ -1,0 +1,25 @@
+#i
+{
+    width: 650px;
+    height: 400px;
+    border: 2px solid;
+    border-radius: 100px;
+}
+hr
+{
+    width: 700px;
+    height: 2px;
+    background-color: aqua;
+}
+p
+{
+    max-width: 700px;
+    text-align: justify;
+    font-size: 20px;
+}
+body
+{
+    background: linear-gradient(purple 30%, blue 70%);
+    color: rgb(166, 166, 166);
+    font-family: 'Comfortaa', cursive;
+}
